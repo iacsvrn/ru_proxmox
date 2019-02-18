@@ -38,6 +38,7 @@
 ### Virtio drivers (isos):
 #### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.141-1/virtio-win-0.1.141.iso
 #### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.160-1/virtio-win-0.1.160.iso
+#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.164-1/virtio-win-0.1.164.iso
 ### Репозитории:
 #### https://pve.proxmox.com/wiki/Package_Repositories
 ### Storage:
