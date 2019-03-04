@@ -45,6 +45,9 @@
 #### https://pve.proxmox.com/wiki/Storage
 #### https://pve.proxmox.com/wiki/ZFS_on_Linux
 #### https://pve.proxmox.com/wiki/Storage:_ZFS
+
+### Backup and Restore:
+#### https://pve.proxmox.com/wiki/Backup_and_Restore
 ### Свежеустановленный Proxmox 5.2 с последующим обновлением на 5.3:
 #### https://t.me/ru_proxmox/6306 (хетцентр репо )
 ### Чистая базовые репы + бесплатный репозиторий proxmox:
