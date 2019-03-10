@@ -107,5 +107,7 @@
 ### Сайты с контейнерами:
 #### https://www.turnkeylinux.org/ ( встроен в proxmox )
 #### https://bitnami.com/
+### Nginx config to Proxmox:
+#### https://t.me/ru_proxmox/17722
 ### Сборник наработок составляют:
 #### https://t.me/ru_proxmox/10455
