@@ -5,6 +5,7 @@
 
 * Чат: https://t.me/ru_proxmox
 * Гит: http://gitlab.proxmox.info
+* Gitlab: https://gitlab.com/iacsvrn/ru_proxmox/
 
 ### У вас вопрос // проблема? Уважайте время людей, пишите больше деталей.
 #### Поиск проблем по чату? #проблема #решение #faq #man #doc
