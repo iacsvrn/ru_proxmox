@@ -110,5 +110,8 @@
 #### https://bitnami.com/
 ### Nginx config to Proxmox:
 #### https://t.me/ru_proxmox/17722
-### Сборник наработок составляют:
-#### https://t.me/ru_proxmox/10455
+### Правила фаервола для кластера:
+#### https://t.me/ru_proxmox/24225
+
+### Спасибо за наработки:
+#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem 
