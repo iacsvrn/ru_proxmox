@@ -58,6 +58,8 @@
 #### http://onreader.mdl.ru/MasteringProxmox.3ed/content/index.html
 ### Ceph документация:
 #### http://docs.ceph.com/docs/master/
+### Физический диск в KVM:
+#### https://pve.proxmox.com/wiki/Physical_disk_to_kvm
 ### qemu-img:
 #### https://t.me/ru_proxmox/754
 ### Скрипт для конвертации физической машины в контейнер:
