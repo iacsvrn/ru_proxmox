@@ -58,6 +58,9 @@
 #### http://onreader.mdl.ru/MasteringProxmox.3ed/content/index.html
 ### Ceph документация:
 #### http://docs.ceph.com/docs/master/
+### User Management ( Управление пользователями ):
+#### https://pve.proxmox.com/wiki/User_Management
+
 ### Физический диск в KVM:
 #### https://pve.proxmox.com/wiki/Physical_disk_to_kvm
 ### qemu-img:
@@ -73,6 +76,7 @@
 #### https://pve.proxmox.com/wiki/Install_Proxmox_VE_on_Debian_Stretch
 #### От сообщества:
 #### https://t.me/ru_proxmox/1008
+
 
 ## Наработки сообщества:
 ### Миграция WinServer2016 (физика) —> Proxmox (VM): 
@@ -116,6 +120,11 @@
 #### https://t.me/ru_proxmox/24225
 ### Проброс usb-устройств в гостевую виртуальную машину.На примере ключей 1С HASP
 #### https://t.me/ru_proxmox/18311
+### VLANы через vswitch в хэтцнере, чтобы виртуалки на разных нодах кластера видели друг друга:
+#### https://t.me/ru_proxmox/33054
+### Упал вторичный контроллер домена:
+#### https://t.me/ru_proxmox/32457
+
 
 ### Спасибо за наработки:
-#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem 
+#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle
