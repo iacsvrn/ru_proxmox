@@ -36,10 +36,6 @@
 #### https://pve.proxmox.com/wiki/Migration_of_servers_to_Proxmox_VE
 ### Cluster Manager:
 #### https://pve.proxmox.com/wiki/Cluster_Manager
-### Virtio drivers (isos):
-#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.141-1/virtio-win-0.1.141.iso
-#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.160-1/virtio-win-0.1.160.iso
-#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.164-1/virtio-win-0.1.164.iso
 ### Репозитории:
 #### https://pve.proxmox.com/wiki/Package_Repositories
 ### Storage:
@@ -47,7 +43,16 @@
 #### https://pve.proxmox.com/wiki/ZFS_on_Linux
 #### https://pve.proxmox.com/wiki/Storage:_ZFS
 
-### Backup and Restore:
+### Virtio drivers (isos):
+#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.160-1/virtio-win-0.1.160.iso
+#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.164-1/virtio-win-0.1.164.iso
+### Virtio drivers ( latest / stable ветки ):
+#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/latest-virtio/
+#### на 13/06/2019 ( https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.171-1/virtio-win-0.1.171.iso )
+#### https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/stable-virtio/
+#### на 13/06/2019 ( https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.141-1/virtio-win-0.1.141.iso )
+
+### Резервное копирования и восстановление:
 #### https://pve.proxmox.com/wiki/Backup_and_Restore
 ### Свежеустановленный Proxmox 5.2 с последующим обновлением на 5.3:
 #### https://t.me/ru_proxmox/6306 (хетцентр репо )
