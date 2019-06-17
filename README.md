@@ -141,4 +141,4 @@
 #### https://t.me/ru_proxmox/33798
 
 ### Спасибо за наработки:
-#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok
+#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk
