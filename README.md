@@ -140,5 +140,13 @@
 ### Какой рейд собран из дисков, если raid программный (установка с ISO, например):
 #### https://t.me/ru_proxmox/33798
 
+## Proxmox и шифрование данных:
+### Proxmox VE с защищенной файловой системой:
+#### https://medium.com/@alexander.bazhenov/%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-proxmox-%D1%81-%D0%B7%D0%B0%D1%89%D0%B8%D1%89%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9-%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%BE%D0%B9-5ffc13b5a948
+### Proxmox и шифрование:
+#### https://www.fserver.ru/lib/view/virtualization/proxmox-security
+### Шифрование Proxmox:
+#### https://ru.stackoverflow.com/questions/672373/%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-proxmox
+
 ### Спасибо за наработки:
 #### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk
