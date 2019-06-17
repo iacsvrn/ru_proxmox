@@ -132,9 +132,9 @@
 ### Debian 9 freeswitch 1.8 ( в контейнере )
 #### проблема: https://t.me/ru_proxmox/33350
 #### решение: https://t.me/ru_proxmox/33616
-### Проброс дисков в виртуальную машину (на базе оф. документации): https://pve.proxmox.com/wiki/Physical_disk_to_kvm):
+### Проброс дисков в виртуальную машину (на базе оф. документации: https://pve.proxmox.com/wiki/Physical_disk_to_kvm):
 #### https://t.me/ru_proxmox/33959
-### Не отображается IP адрес при установленом qemu-agent в Windows Server 2016
+### Не отображается IP адрес при установленом qemu-agent в Windows Server 2016:
 #### https://t.me/ru_proxmox/33974
 
 ### Спасибо за наработки:
