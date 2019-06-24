@@ -139,6 +139,9 @@
 #### https://t.me/ru_proxmox/33974
 ### Какой рейд собран из дисков, если raid программный (установка с ISO, например):
 #### https://t.me/ru_proxmox/33798
+### MTU 9000:
+#### https://t.me/ru_proxmox/35072
+#### https://t.me/ru_proxmox/35041
 
 ## Proxmox и шифрование данных:
 ### Proxmox VE с защищенной файловой системой:
@@ -149,4 +152,4 @@
 #### https://ru.stackoverflow.com/questions/672373/%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-proxmox
 
 ### Спасибо за наработки:
-#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk
+#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128
