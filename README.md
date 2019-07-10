@@ -38,6 +38,7 @@
 #### https://pve.proxmox.com/wiki/Cluster_Manager
 ### Репозитории:
 #### https://pve.proxmox.com/wiki/Package_Repositories
+#### https://t.me/ru_proxmox/36391 ( Debian 9 )
 ### Storage:
 #### https://pve.proxmox.com/wiki/Storage
 #### https://pve.proxmox.com/wiki/ZFS_on_Linux
