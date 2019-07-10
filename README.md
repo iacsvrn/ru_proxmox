@@ -32,6 +32,10 @@
 ### Windows 2012:
 #### https://pve.proxmox.com/wiki/Windows_2012_guest_best_practices
 
+### PCI проброс:
+#### https://pve.proxmox.com/wiki/Pci_passthrough
+#### https://pve.proxmox.com/wiki/PCI(e)_Passthrough
+
 ### О миграции:
 #### https://pve.proxmox.com/wiki/Migration_of_servers_to_Proxmox_VE
 ### Cluster Manager:
@@ -145,6 +149,8 @@
 ### MTU 9000:
 #### https://t.me/ru_proxmox/35072
 #### https://t.me/ru_proxmox/35041
+### Nvidia KVM Patch ( только в ознакомительных целях, так как нарушает лицензию Nvidia):
+#### https://t.me/ru_proxmox/36050
 
 ## Proxmox и шифрование данных:
 ### Proxmox VE с защищенной файловой системой:
