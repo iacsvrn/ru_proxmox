@@ -132,6 +132,8 @@
 ### Debian 9 freeswitch 1.8 ( в контейнере )
 #### проблема: https://t.me/ru_proxmox/33350
 #### решение: https://t.me/ru_proxmox/33616
+### Кэш / диски:
+#### https://pve.proxmox.com/wiki/Performance_Tweaks
 ### Проброс дисков в виртуальную машину (на базе оф. документации: https://pve.proxmox.com/wiki/Physical_disk_to_kvm):
 #### https://t.me/ru_proxmox/33959
 #### ещё про проброс диска: https://unlix.ru/добавление-физического-диска-в-proxmox/
