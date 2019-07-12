@@ -79,14 +79,18 @@
 #### https://github.com/deimosfr/lxc-convert/blob/master/README.md
 ### Контейнеризация при помощи LXC. Введение в контейнеры Linux:
 #### http://onreader.mdl.ru/ContainerizationWithLXC/content/Ch01.html
-### Опрос про обновления:
-#### https://t.me/ru_proxmox/895
+
 ## Установка proxmox на Debian:
 ### Официальная:
 #### https://pve.proxmox.com/wiki/Install_Proxmox_VE_on_Debian_Stretch
 #### От сообщества:
 #### https://t.me/ru_proxmox/1008
 
+## Опросы:
+### Опрос про версию Proxmox:
+#### https://t.me/ru_proxmox/33600
+### Опрос про обновления:
+#### https://t.me/ru_proxmox/895
 
 ## Наработки сообщества:
 ### Миграция WinServer2016 (физика) —> Proxmox (VM): 
@@ -151,6 +155,19 @@
 #### https://t.me/ru_proxmox/35041
 ### Nvidia KVM Patch ( только в ознакомительных целях, так как нарушает лицензию Nvidia):
 #### https://t.me/ru_proxmox/36050
+### Cоздание собственного шаблона CT:
+#### https://t.me/ru_proxmox/37002
+
+## PfSense + Proxmox
+### Виртуализация pfSense на Proxmox ( англ. язык )
+#### https://docs.netgate.com/pfsense/en/latest/virtualization/virtualizing-pfsense-with-proxmox.html
+### Решение проблемы pfsense на Proxmox - получение доступа к Proxmox Web UI через VPN
+#### https://forum.proxmox.com/threads/pfsense-on-proxmox-accessing-proxmox-web-ui-via-vpn.41349/
+#### Автор проблемы: https://t.me/ru_proxmox/37227
+### Установка pfSense на Proxmox (Hetzner):
+#### https://vk.com/@-182021850-ustanovka-pfsense-na-proxmox-hetzner
+#### Автор проблемы: https://t.me/ru_proxmox/37237
+
 
 ## Proxmox и шифрование данных:
 ### Proxmox VE с защищенной файловой системой:
@@ -161,4 +178,4 @@
 #### https://ru.stackoverflow.com/questions/672373/%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-proxmox
 
 ### Спасибо за наработки:
-#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128, @simubishi, @enamchuk, @ivdok
+#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128, @simubishi, @enamchuk, @ivdok, @VladMir174, @koshakm5, @Roman2dot0
