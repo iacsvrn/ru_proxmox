@@ -92,71 +92,7 @@
 ### Опрос про обновления:
 #### https://t.me/ru_proxmox/895
 
-## Наработки сообщества:
-### Миграция WinServer2016 (физика) —> Proxmox (VM): 
-#### https://t.me/ru_proxmox/2727
-### Whmcs-proxmox:
-#### https://github.com/baonq-me/whmcs-proxmox
-### Перенос Proxmox на другой zfs пул:
-#### https://t.me/ru_proxmox/5336
-### Обновление:
-#### https://pve.proxmox.com/wiki/Upgrade_from_3.x_to_4.0
-### Неверное отображение RAM в Proxmox (win guest vm):
-#### https://t.me/ru_proxmox/11520
-### win7/win2008 r2 ( vmware esxi ) -> proxmox (vm):
-#### qemu-img convert -O qcow2 vm_to_esxi.vmdk vm_to_kvm
-### Softwarные RAID ( soft ):
-#### https://t.me/ru_proxmox/3384
-### Когда неясно, куда делась RAM:
-#### https://t.me/ru_proxmox/6981
-### Переезд ВМ, если нельзя сделать бэкап (через снэпшот + шаблон):
-#### https://t.me/ru_proxmox/7003
-### Настойка OVS Proxmox с использованием VLAN на базе Open Virtual Switch:
-#### https://t.me/ru_proxmox/9338
-### Параметры установки Windows Server:
-#### https://t.me/ru_proxmox/9722
-### FC HBA Qlogic 2552 + Proxmox:
-#### https://t.me/ru_proxmox/10307
-### Proxmox + ZFS ("неудаляемый" виртуальный жесткий диск):
-#### https://t.me/ru_proxmox/11706
-#### Хук на бэкап: https://t.me/ru_proxmox/12161
-### Проксмокс + gentoo rescue:
-#### https://gitlab.com/vint_243/rescue
-#### https://gitlab.com/vint_243/proxmox
-### Resize virtual disk:
-#### http://c-nergy.be/blog/?p=1323
-### Сайты с контейнерами:
-#### https://www.turnkeylinux.org/ ( встроен в proxmox )
-#### https://bitnami.com/
-### Nginx config to Proxmox:
-#### https://t.me/ru_proxmox/17722
-### Правила фаервола для кластера:
-#### https://t.me/ru_proxmox/24225
-### Проброс usb-устройств в гостевую виртуальную машину.На примере ключей 1С HASP
-#### https://t.me/ru_proxmox/18311
-### VLANы через vswitch в хэтцнере, чтобы виртуалки на разных нодах кластера видели друг друга:
-#### https://t.me/ru_proxmox/33054
-### Упал вторичный контроллер домена:
-#### https://t.me/ru_proxmox/32457
-### Debian 9 freeswitch 1.8 ( в контейнере )
-#### проблема: https://t.me/ru_proxmox/33350
-#### решение: https://t.me/ru_proxmox/33616
-### Кэш / диски:
-#### https://pve.proxmox.com/wiki/Performance_Tweaks
-### Проброс дисков в виртуальную машину (на базе оф. документации: https://pve.proxmox.com/wiki/Physical_disk_to_kvm):
-#### https://t.me/ru_proxmox/33959
-#### ещё про проброс диска: https://unlix.ru/добавление-физического-диска-в-proxmox/
-### Не отображается IP адрес при установленом qemu-agent в Windows Server 2016:
-#### https://t.me/ru_proxmox/33974
-### Какой рейд собран из дисков, если raid программный (установка с ISO, например):
-#### https://t.me/ru_proxmox/33798
-### MTU 9000:
-#### https://t.me/ru_proxmox/35072
-#### https://t.me/ru_proxmox/35041
-### Nvidia KVM Patch ( только в ознакомительных целях, так как нарушает лицензию Nvidia):
-#### https://t.me/ru_proxmox/36050
-### Cоздание собственного шаблона CT:
-#### https://t.me/ru_proxmox/37002
+## Наработки сообщества: https://github.com/iacsvrn/ru_proxmox/wiki/Наработки-сообщества
 
 ## PfSense + Proxmox
 ### Виртуализация pfSense на Proxmox ( англ. язык )
