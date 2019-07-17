@@ -91,6 +91,8 @@
 #### https://t.me/ru_proxmox/33600
 ### Опрос про обновления:
 #### https://t.me/ru_proxmox/895
+#### Установка Proxmox 6 на Hetzner
+#### https://docs.google.com/document/d/1BIjRJ5_pG3x49KnhiKN7QsX_uY5bDlOyI-HjBlE-axE/edit?usp=sharing
 
 ## Наработки сообщества: https://github.com/iacsvrn/ru_proxmox/wiki/Наработки-сообщества
 
