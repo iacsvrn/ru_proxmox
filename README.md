@@ -115,5 +115,17 @@
 ### Шифрование Proxmox:
 #### https://ru.stackoverflow.com/questions/672373/%D0%A8%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-proxmox
 
+### Promox VE API Documentation:
+#### https://pve.proxmox.com/pve-docs/api-viewer/index.html
+
+
+## Статьи про Proxmox
+### Работа с кластером Proxmox: установка, настройка сети, ZFS, решение распространенных проблем:
+#### https://habr.com/ru/post/457894/
+### Для желающих быстрее ребутать гипервизор:
+#### https://t.me/ru_proxmox/38987
+#### https://forum.proxmox.com/threads/tip-fast-reboots-with-kexec.35624/
+
+
 ### Спасибо за наработки:
 #### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128, @simubishi, @enamchuk, @ivdok, @VladMir174, @koshakm5, @Roman2dot0
