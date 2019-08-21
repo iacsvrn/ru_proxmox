@@ -120,6 +120,7 @@
 
 ### Информация про покупку Proxmox для Российской Федерации:
 #### https://www.proxmox.com/en/partners/reseller/category/russia
+#### Запрос от члена сообщества: https://t.me/ru_proxmox/44015
 
 ## Статьи про Proxmox
 ### Работа с кластером Proxmox: установка, настройка сети, ZFS, решение распространенных проблем:
@@ -127,7 +128,7 @@
 ### Для желающих быстрее ребутать гипервизор:
 #### https://t.me/ru_proxmox/38987
 #### https://forum.proxmox.com/threads/tip-fast-reboots-with-kexec.35624/
-#### Запрос от члена сообщества: https://t.me/ru_proxmox/44015
+
 
 
 ### Спасибо за наработки:
