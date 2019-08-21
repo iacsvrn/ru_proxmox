@@ -118,6 +118,8 @@
 ### Promox VE API Documentation:
 #### https://pve.proxmox.com/pve-docs/api-viewer/index.html
 
+### Информация про покупку Proxmox для Российской Федерации:
+#### https://www.proxmox.com/en/partners/reseller/category/russia
 
 ## Статьи про Proxmox
 ### Работа с кластером Proxmox: установка, настройка сети, ZFS, решение распространенных проблем:
@@ -125,7 +127,8 @@
 ### Для желающих быстрее ребутать гипервизор:
 #### https://t.me/ru_proxmox/38987
 #### https://forum.proxmox.com/threads/tip-fast-reboots-with-kexec.35624/
+#### Запрос от члена сообщества: https://t.me/ru_proxmox/44015
 
 
 ### Спасибо за наработки:
-#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128, @simubishi, @enamchuk, @ivdok, @VladMir174, @koshakm5, @Roman2dot0, @nixon89
+#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128, @simubishi, @enamchuk, @ivdok, @VladMir174, @koshakm5, @Roman2dot0, @nixon89, @NAT_GTX
