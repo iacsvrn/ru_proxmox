@@ -132,4 +132,4 @@
 
 
 ### Спасибо за наработки:
-#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128, @simubishi, @enamchuk, @ivdok, @VladMir174, @koshakm5, @Roman2dot0, @nixon89, @NAT_GTX
+#### Спасибо: @Ilmarion, @AnthonyT1, @zCirill, @ferops, @sicral, @tr0jan4ik, @pangolizard, @Lokses_od, @wormen, @mef13, @Softer_UA , @brilliantov, @vint_243, @noideal, @steelllion, @SIP_600_Busy_everywhere, @benderit, @MrBubbIes , @noragamis, @m14xa1, @medov_alexey, @maverickdeb, Artem, @Delielle, @ZwerGMaX, @ivdok, @enamchuk, @gidra3128, @simubishi, @enamchuk, @ivdok, @VladMir174, @koshakm5, @Roman2dot0, @nixon89, @NAT_GTX, @mafetx
