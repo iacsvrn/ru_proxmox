@@ -118,6 +118,9 @@
 ### Promox VE API Documentation:
 #### https://pve.proxmox.com/pve-docs/api-viewer/index.html
 
+### Proxmox VE Administration Guide
+#### https://pve.proxmox.com/pve-docs/pve-admin-guide.html
+
 ### Информация про покупку Proxmox для Российской Федерации:
 #### https://www.proxmox.com/en/partners/reseller/category/russia
 #### Запрос от члена сообщества: https://t.me/ru_proxmox/44015
